@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\KSTTest\KSTTest\bin\Debug\KSTTest.exe.config
+C:\Users\Pc\source\repos\KSTTest\KSTTest\bin\Debug\KSTTest.exe
+C:\Users\Pc\source\repos\KSTTest\KSTTest\bin\Debug\KSTTest.pdb
+C:\Users\Pc\source\repos\KSTTest\KSTTest\obj\Debug\KSTTest.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\KSTTest\KSTTest\obj\Debug\KSTTest.Form1.resources
+C:\Users\Pc\source\repos\KSTTest\KSTTest\obj\Debug\KSTTest.Properties.Resources.resources
+C:\Users\Pc\source\repos\KSTTest\KSTTest\obj\Debug\KSTTest.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\KSTTest\KSTTest\obj\Debug\KSTTest.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\KSTTest\KSTTest\obj\Debug\KSTTest.exe
+C:\Users\Pc\source\repos\KSTTest\KSTTest\obj\Debug\KSTTest.pdb
